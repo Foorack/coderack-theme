@@ -1,8 +1,8 @@
 {
   "name": "foorack-code-theme",
   "displayName": "Coderack Theme",
-  "description": "Foorack Code Theme for VSCode. Strongly recommended to use `catppuccin-latte` as your Icon theme.",
-  "version": "0.0.3",
+  "description": "Vim-like Strong-Contrast Dark Theme for VSCode",
+  "version": "0.0.4",
   "publisher": "foorack",
   "icon": "images/icon-large.png",
   "author": {
