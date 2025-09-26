@@ -5,6 +5,7 @@
     "url": "https://github.com/Foorack/coderack-theme"
   },
   "license": "MIT",
+  "publisher": "foorack",
   "displayName": "Coderack Theme",
   "description": "Foorack Code Theme for VSCode",
   "version": "0.0.2",
