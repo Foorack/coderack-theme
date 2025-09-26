@@ -2,6 +2,30 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "Coderack Theme",
   "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "rules": {
+      "enumMember": {
+        "foreground": "#00ff00"
+      },
+      "variable.constant": {
+        "foreground": "#ff00ff"
+      },
+      "variable.defaultLibrary": {
+        "foreground": "#00ff00"
+      },
+      "variable.parameter": {
+        "fontStyle": ""
+      },
+      "selfKeyword": {
+        "foreground": "#ff0000",
+        "fontStyle": ""
+      },
+      "macro": "#00ffff",
+      "boolean": "#ff00ff",
+      "property": "#00bfff"
+    }
+  },
   "colors": {
     "actionBar.toggledBackground": "#383a49",
     "activityBar.background": "#002e63e6",
