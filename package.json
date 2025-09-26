@@ -1,0 +1,21 @@
+{
+  "name": "foorack-code-theme",
+  "displayName": "Coderack Theme",
+  "description": "Foorack Code Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coderack Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coderack Theme-color-theme.json"
+      }
+    ]
+  }
+}
