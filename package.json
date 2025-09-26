@@ -1,16 +1,26 @@
 {
   "name": "foorack-code-theme",
+  "displayName": "Coderack Theme",
+  "description": "Foorack Code Theme for VSCode",
+  "version": "0.0.2",
+  "publisher": "foorack",
+  "icon": "images/icon-large.png",
+  "author": {
+    "name": "Foorack",
+    "email": "max@foorack.com",
+    "url": "https://github.com/Foorack"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Foorack/coderack-theme/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Foorack/coderack-theme"
   },
-  "license": "MIT",
-  "publisher": "foorack",
-  "displayName": "Coderack Theme",
-  "description": "Foorack Code Theme for VSCode",
-  "version": "0.0.2",
+  "homepage": "https://github.com/Foorack/coderack-theme",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.22.0"
   },
   "categories": [
     "Themes"
