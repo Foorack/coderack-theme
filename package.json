@@ -1,5 +1,10 @@
 {
   "name": "foorack-code-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Foorack/coderack-theme"
+  },
+  "license": "MIT",
   "displayName": "Coderack Theme",
   "description": "Foorack Code Theme for VSCode",
   "version": "0.0.2",
