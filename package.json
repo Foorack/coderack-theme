@@ -20,10 +20,17 @@
   },
   "homepage": "https://github.com/Foorack/coderack-theme",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.57.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Foorack",
+    "Coderack",
+    "Theme",
+    "Dark Theme",
+    "vim"
   ],
   "contributes": {
     "themes": [
